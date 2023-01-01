@@ -46,7 +46,7 @@ background: var(--color-primary);
 color: #fff;
 }
 .btn--primary:hover{
-    background: rgb(70, 70, 74);
+    background: #c1f11092;
     color: var(--color-primary);
 }
 .btn--outline{
@@ -78,8 +78,9 @@ color: #fff;
   color: #fff;
 }
 .main-nav img {
-  margin-left: 3rem;
-  width: 10rem;
+
+  width: 6rem;
+  margin: 1rem 3rem;
   border-radius: 50%;
   cursor: pointer;
   transition: transform 0.3s;
